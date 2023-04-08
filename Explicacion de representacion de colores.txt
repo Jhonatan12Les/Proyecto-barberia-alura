@@ -1,0 +1,35 @@
+Alfabeto 
+
+A,B,C,D,E.F
+0,1,2,3,4,5,6,7,8,9
+0,1
+
+Hexadecimal 
+es la combinacion de estos caracteres para poder representar varias cosas 
+
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E.F 
+
+en los colores html tenemos 6 posiciones 
+
+__ __ __ __ __ __ 
+
+
+r  r  g  g  b  b 
+
+la representacion del negro es = 
+
+#000000
+
+Para representar el blanco =
+
+#FFFFFF
+
+Para representar rojo 
+
+FF0000
+
+combinacion RGB() 0 -MENOR
+
+		  255 = MAXIMO 
+
+rgb(0,0,0) representa color negro en la escala de colores 
